@@ -135,7 +135,7 @@ KOReader is a free and open-source document viewer primarily aimed at e-ink read
 - [screenlockpin.koplugin](https://github.com/oleasteo/koreader-screenlockpin) — Protect your KOReader with a PIN.
 - [smartdelete.koplugin](https://github.com/tachibana-shin/smartdelete.koplugin) — Enhanced file deletion with safety warnings.
 - [weighttracker.koplugin](https://github.com/KikyTokamuro/weighttracker.koplugin) — Track weight measurements on your reader.
-- [crashlog.koplugin](https://github.com/Billiam/crashlog.kopluginb) — View and filter crash logs for troubleshooting.
+- [crashlog.koplugin](https://github.com/Billiam/crashlog.koplugin) — View and filter crash logs for troubleshooting.
 - [airplanemode.koplugin](https://github.com/kodermike/airplanemode.koplugin) — Quick airplane mode toggle with plugin management.
 - [todo.koplugin](https://github.com/ZHA30/todo.koplugin) — Lightweight local to-do list plugin.
 - [updatesmanager.koplugin](https://github.com/advokatb/updatesmanager.koplugin) — Manage and control plugin and app updates.
