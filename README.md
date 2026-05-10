@@ -56,7 +56,7 @@ KOReader is a free and open-source document viewer primarily aimed at e-ink read
 - [zlibrary.koplugin (OctoNezd)](https://github.com/OctoNezd/zlibrary.koplugin) — Alternative Z-Library client for KOReader (152+ ⭐).
 - [libgen-opds](https://github.com/krruzic/libgen-opds) — Library Genesis and OPDS bridge: search and download books via KOReader's OPDS search. Includes GoodReads most-read lists (41+ ⭐).
 - [zotero.koplugin](https://github.com/stelzch/zotero.koplugin) — Browse and download documents from your Zotero collections on your e-reader (104+ ⭐).
-- [audiobookshelf.koplugin](https://github.com/koreader/contrib) — Browse and download from your Audiobookshelf server (part of contrib).
+- [audiobookshelf.koplugin](https://github.com/naleo/audiobookshelf.koplugin) — Browse and download from your Audiobookshelf server (part of contrib).
 - [legado.koplugin](https://github.com/pengcw/legado.koplugin) — Read web novels from Legado's open-source reading library on KOReader (110+ ⭐).
 - [rakuyomi](https://github.com/hanatsumi/rakuyomi) — Manga reader plugin: browse and download manga from multiple sources directly in KOReader.
 
@@ -65,41 +65,41 @@ KOReader is a free and open-source document viewer primarily aimed at e-ink read
 - [hardcoverapp.koplugin](https://github.com/Billiam/hardcoverapp.koplugin) — Update your reading status on [Hardcover.app](https://hardcover.app) directly from KOReader.
 - [beeminder.koplugin](https://github.com/cbrxyz/beeminder.koplugin) — Automatically log reading progress to Beeminder goals.
 - [wallabag.koplugin](https://github.com/koreader/koreader) — Built-in Wallabag v2 integration for read-it-later articles.
-- [gota.koplugin](https://github.com/koreader/contrib) — Access Raindrop.io bookmarks from KOReader.
-- [karakeep.koplugin](https://github.com/koreader/contrib) — Access Karakeep bookmarks from KOReader.
+- [gota.koplugin](https://github.com/cristenger/gota.koplugin-for-raindrop) — Access Raindrop.io bookmarks from KOReader.
+- [karakeep.koplugin](https://github.com/AlgusDark/karakeep.koplugin) — Access Karakeep bookmarks from KOReader.
 
 ## Plugins — Sync & File Management
 
 - [TelegramDownloader.koplugin](https://github.com/Evgeniy-94/TelegramDownloader.koplugin) — Send files to your e-reader via a Telegram bot.
-- [filebrowserplus.koplugin](https://github.com/koreader/contrib) — Run a Filebrowser server for wireless file management on your device.
+- [filebrowserplus.koplugin](https://github.com/patelneeraj/filebrowserplus.koplugin) — Run a Filebrowser server for wireless file management on your device.
 - [AnnotationSync.koplugin](https://github.com/dani84bs/AnnotationSync.koplugin) — Lightweight plugin to keep annotations in sync between devices via cloud (23+ ⭐).
 - [syncthing.koplugin](https://github.com/arthurrump/syncthing.koplugin) — Run Syncthing directly from within KOReader for seamless file sync (29+ ⭐).
-- [supersync.koplugin](https://github.com/koreader/contrib) — Full metadata sync to cloud storage (Dropbox, WebDAV, etc.).
-- [email-to-koreader.koplugin](https://github.com/koreader/contrib) — Receive documents and articles directly to your device via email.
+- [supersync.koplugin](https://github.com/BrendanL79/supersync.koplugin) — Full metadata sync to cloud storage (Dropbox, WebDAV, etc.).
+- [emailtokoreader.koplugin](https://github.com/marinov752/emailtokoreader.koplugin) — Automatically download EPUB files from your email directly to your KOReader device.
 - [Highlight-Sync](https://github.com/gitalexcampos/koreader-Highlight-Sync) — Sync highlights, notes, and bookmarks across multiple devices using WebDAV or Dropbox (88+ ⭐).
 
 ## Plugins — Highlights & Annotations
 
 - [provider-webdav-highlights.koplugin](https://github.com/fairlygood/provider-webdav-highlights.koplugin) — Export KOReader highlights to a WebDAV target (21+ ⭐).
-- [telegram-highlights.koplugin](https://github.com/koreader/contrib) — Send highlights to a Telegram bot with images.
-- [remotenote.koplugin](https://github.com/koreader/contrib) — Type notes on another device for highlighted passages.
+- [telegramhighlights.koplugin](https://github.com/0xmiki/telegramhighlights.koplugin) — Send highlights to a Telegram bot with images.
+- [remotenote.koplugin](https://github.com/j-v/remotenote.koplugin) — Type notes on another device for highlighted passages.
 
 ## Plugins — Dictionary & Language
 
 - [anki.koplugin](https://github.com/Ajatt-Tools/anki.koplugin) — Generate Anki flashcards from dictionary lookups in KOReader (143+ ⭐).
-- [dictionarymode.koplugin](https://github.com/koreader/contrib) — One-tap dictionary lookups while reading.
-- [wordreference.koplugin](https://github.com/koreader/contrib) — Look up words on WordReference.
-- [vocabularybuilder.koplugin](https://github.com/koreader/contrib) — Build vocabulary from lookups during reading.
-- [memobook.koplugin](https://github.com/koreader/contrib) — Personal dictionary for terms and in-book memos.
+- [dictionarymode.koplugin](https://github.com/ckilb/dictionarymode.koplugin) — One-tap dictionary lookups while reading.
+- [wordreference.koplugin](https://github.com/kristianpennacchia/wordreference.koplugin) — Look up words on WordReference.
+- [vocabulary.koplugin](https://github.com/nbngoc93/vocabulary.koplugin) — Build vocabulary from lookups during reading.
+- [memobook.koplugin](https://github.com/omer-faruq/memobook.koplugin) — Personal dictionary for terms and in-book memos.
 - [zim-converter](https://github.com/Bartvelp/zim-converter) — Convert ZIM files (Kiwix/Wikipedia) to SQLite databases for the WikiReader plugin (25+ ⭐).
 
 ## Plugins — UI & Customization
 
 - [ProjectTitle](https://github.com/joshuacant/ProjectTitle) — Enhanced cover browser UI plugin: custom title bar, fresh book listings, informative footer, matching book status page, and endless customization.
-- [reader-menu-redesign.koplugin](https://github.com/koreader/contrib) — Redesigned reader menus and popups for a modern look.
+- [zzz-readermenuredesign.koplugin](https://github.com/kristianpennacchia/zzz-readermenuredesign.koplugin) — Redesigned reader menus and popups for a modern look.
 - [Menu-Customizer](https://github.com/JoeBumm/Koreader-Menu-customizer) — Hide specific menus and plugin entries for a cleaner, focused interface (28+ ⭐).
-- [iconschanger.koplugin](https://github.com/koreader/contrib) — Download and change icon packs.
-- [illustrations.koplugin](https://github.com/koreader/contrib) — View and manage book illustrations in a dedicated gallery.
+- [iconschanger.koplugin](https://github.com/ebanDev/iconschanger.koplugin) — Download and change icon packs.
+- [illustrations.koplugin](https://github.com/agaragou/illustrations.koplugin) — View and manage book illustrations in a dedicated gallery.
 
 ## Plugins — Comics & Manga
 
@@ -112,53 +112,53 @@ KOReader is a free and open-source document viewer primarily aimed at e-ink read
 - [miniflux.koplugin](https://github.com/AlgusDark/miniflux.koplugin) — Access a Miniflux instance to read RSS feed entries with offline capabilities (42+ ⭐).
 - [readeck.koplugin (flip-rossi)](https://github.com/flip-rossi/readeck.koplugin) — Integration with your Readeck read-it-later instance (37+ ⭐).
 - [readeck.koplugin (iceyear)](https://github.com/iceyear/readeck.koplugin) — Alternative Readeck plugin for KOReader (35+ ⭐).
-- [opdsplus.koplugin](https://github.com/koreader/contrib) — Enhanced OPDS browser with advanced catalog features.
-- [rssreader.koplugin](https://github.com/koreader/contrib) — Follow RSS feeds from a single screen.
+- [opdsplus.koplugin](https://github.com/greywolf1499/opds_plus.koplugin) — Enhanced OPDS browser with advanced catalog features.
+- [rssreader.koplugin](https://github.com/omer-faruq/rssreader.koplugin) — Follow RSS feeds from a single screen.
 
 ## Plugins — Reading Tracking & Goals
 
-- [readingstreak.koplugin](https://github.com/koreader/contrib) — Build reading habits and track consecutive reading days.
-- [readinggoals.koplugin](https://github.com/koreader/contrib) — Set and monitor reading targets and progress milestones.
-- [tbrplanner.koplugin](https://github.com/koreader/contrib) — Organize and schedule your To Be Read list.
+- [readingstreak.koplugin](https://github.com/advokatb/readingstreak.koplugin) — Build reading habits and track consecutive reading days.
+- [tbrplanner.koplugin](https://github.com/omer-faruq/tbrplanner.koplugin) — Organize and schedule your To Be Read list.
 
 ## Plugins — Utilities & Tools
 
-- [timeblock.koplugin](https://github.com/koreader/contrib) — Schedule KOReader reading windows with PIN-locked parental controls.
-- [notes.koplugin](https://github.com/koreader/contrib) — Handwritten notes with stylus support.
-- [crossword.koplugin](https://github.com/koreader/contrib) — Solve crosswords on your device.
-- [calculator.koplugin](https://github.com/koreader/contrib) — Full-featured calculator with unit conversion.
-- [digitalclock.koplugin](https://github.com/koreader/contrib) — Display time, date, and image as a clock.
+- [timeblock.koplugin](https://kindlemodshelf.me/timeblock) — Schedule KOReader reading windows with PIN-locked parental controls.
+- [notes.koplugin](https://github.com/prasy-loyola/notes.koplugin) — Handwritten notes with stylus support.
+- [crossword.koplugin](https://github.com/roygbyte/crossword.koplugin) — Solve crosswords on your device.
+- [calculator.koplugin](https://github.com/code2344/calculator.koplugin) — Full-featured calculator with unit conversion.
+- [digitalclock.koplugin](https://github.com/DucNg/digitalclock.koplugin) — Display time, date, and image as a clock.
 - [readingruler.koplugin](https://github.com/Syakhisk/readingruler.koplugin) — Movable underline to guide reading on e-ink screens (27+ ⭐).
-- [weather.koplugin](https://github.com/koreader/contrib) — Weather forecasts and conditions.
-- [webbrowser.koplugin](https://github.com/koreader/contrib) — Text-based web browsing on your e-reader.
-- [gotobed.koplugin](https://github.com/koreader/contrib) — Enforces bedtime by locking the device.
-- [screenlockpin.koplugin](https://github.com/koreader/contrib) — Protect your KOReader with a PIN.
-- [smartdelete.koplugin](https://github.com/koreader/contrib) — Enhanced file deletion with safety warnings.
-- [weighttracker.koplugin](https://github.com/koreader/contrib) — Track weight measurements on your reader.
-- [crashlogviewer.koplugin](https://github.com/koreader/contrib) — View and filter crash logs for troubleshooting.
-- [airplanemode.koplugin](https://github.com/koreader/contrib) — Quick airplane mode toggle with plugin management.
-- [todo.koplugin](https://github.com/koreader/contrib) — Simple to-do list app.
-- [updatesmanager.koplugin](https://github.com/koreader/contrib) — Manage and control plugin and app updates.
-- [appstore.koplugin](https://github.com/koreader/contrib) — Browse and install KOReader plugins and apps.
+- [weather.koplugin (holyspiritomb)](https://github.com/holyspiritomb/weather.koplugin) — Weather forecasts and conditions.
+- [weather.koplugin (roygbyte)](https://github.com/roygbyte/weather.koplugin) — Weather forecasts and conditions.
+- [webbrowser.koplugin](https://github.com/omer-faruq/webbrowser.koplugin) — Text-based web browsing on your e-reader.
+- [gotobed.koplugin](https://github.com/edoput/gotobed.koplugin) — Enforces bedtime by locking the device.
+- [screenlockpin.koplugin](https://github.com/oleasteo/koreader-screenlockpin) — Protect your KOReader with a PIN.
+- [smartdelete.koplugin](https://github.com/tachibana-shin/smartdelete.koplugin) — Enhanced file deletion with safety warnings.
+- [weighttracker.koplugin](https://github.com/KikyTokamuro/weighttracker.koplugin) — Track weight measurements on your reader.
+- [crashlog.koplugin](https://github.com/Billiam/crashlog.koplugin) — View and filter crash logs for troubleshooting.
+- [airplanemode.koplugin](https://github.com/kodermike/airplanemode.koplugin) — Quick airplane mode toggle with plugin management.
+- [todo.koplugin](https://github.com/ZHA30/todo.koplugin) — Lightweight local to-do list plugin.
+- [updatesmanager.koplugin](https://github.com/advokatb/updatesmanager.koplugin) — Manage and control plugin and app updates.
+- [appstore.koplugin](https://github.com/omer-faruq/appstore.koplugin) — Browse and install KOReader plugins and apps.
 - [pixelart.koplugin](https://github.com/MoreFoxBeans/pixelart.koplugin) — Create pixel art on your e-ink device (32+ ⭐).
-- [weatherlockscreen.koplugin](https://github.com/koreader/contrib) — Display weather information on your device's sleep screen.
-- [mtastop.koplugin](https://github.com/koreader/contrib) — Real-time MTA bus arrivals and local weather.
+- [weatherlockscreen.koplugin](https://github.com/loeffner/WeatherLockscreen) — Display weather information on your device's sleep screen.
+- [mtastop.koplugin](https://github.com/HaukeCornell/mtastop.koplugin) — Real-time MTA bus arrivals and local weather.
 
 ## Plugins — Games & Entertainment
 
-- [connections.koplugin](https://github.com/koreader/contrib) — NYT Connections puzzle game.
-- [sudoku.koplugin](https://github.com/koreader/contrib) — Play Sudoku on your e-reader.
-- [wordsearch.koplugin](https://github.com/koreader/contrib) — Solve word search puzzles on your device.
+- [connections.koplugin](https://github.com/odrling/connections.koplugin) — NYT Connections puzzle game.
+- [sudoku.koplugin](https://github.com/omer-faruq/sudoku.koplugin) — Play Sudoku on your e-reader.
+- [wordsearch.koplugin](https://github.com/omer-faruq/wordsearch.koplugin) — Solve word search puzzles on your device.
 
 ## Plugins — PocketBook Specific
 
-- [pocketbookcover.koplugin](https://github.com/koreader/contrib) — Sync book cover to power-off screen on PocketBook devices.
-- [pocketbooksync.koplugin](https://github.com/koreader/contrib) — Sync reading progress to PocketBook Library.
+- [pocketbookcover.koplugin](https://github.com/ckilb/pocketbookcover.koplugin) — Sync book cover to power-off screen on PocketBook devices.
+- [pocketbooksync.koplugin](https://github.com/ckilb/pocketbooksync.koplugin) — Sync reading progress to PocketBook Library.
 
 ## Plugins — Archive of Our Own (AO3)
 
-- [ao3downloader.koplugin](https://github.com/koreader/contrib) — Download and browse AO3 works directly from your e-reader.
-- [ao3updater.koplugin](https://github.com/koreader/contrib) — Auto-update AO3 EPUBs with the latest chapters.
+- [ao3downloader.koplugin](https://github.com/IntrovertedMage/AO3Downloader.koplugin) — Download and browse AO3 works directly from your e-reader.
+- [ao3updater.koplugin](https://github.com/ProfBlack/ao3updater.koplugin) — Auto-update AO3 EPUBs with the latest chapters.
 
 ## Sync Servers (Self-Hosted)
 
@@ -203,7 +203,7 @@ User patches are `.lua` files placed in `koreader/patches/` that modify KOReader
 
 ## Themes & Icon Packs
 
-- [iconschanger.koplugin](https://github.com/koreader/contrib) — Plugin to download and switch between icon packs.
+- [iconschanger.koplugin](https://github.com/ebanDev/iconschanger.koplugin) — Plugin to download and switch between icon packs.
 - [Visual Overhaul Suite](https://github.com/SeriousHornet/KOReader.patches) — Complete visual overhaul with custom SVG icons for book status (reading, abandoned, finished).
 - [Project: Title Themes](https://github.com/joshuacant/ProjectTitle/wiki/User-Patches-for-Project-Title) — Extensive list of user patches specifically for theming Project: Title.
 
