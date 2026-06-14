@@ -117,6 +117,7 @@ KOReader is a free and open-source document viewer primarily aimed at e-ink read
 
 ## Plugins — Reading Tracking & Goals
 
+- [backlog.koplugin](https://github.com/cdrso/backlog.koplugin) — Per-article read tracking for anthology EPUBs (collections of standalone, interlinked essays): shows which pieces you've read, jumps to the next unread, and auto-marks each as you finish.
 - [readingstreak.koplugin](https://github.com/advokatb/readingstreak.koplugin) — Build reading habits and track consecutive reading days.
 - [tbrplanner.koplugin](https://github.com/omer-faruq/tbrplanner.koplugin) — Organize and schedule your To Be Read list.
 
