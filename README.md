@@ -169,6 +169,7 @@ KOReader is a free and open-source document viewer primarily aimed at e-ink read
 - [koreader-sync (b1n4ryj4n)](https://github.com/b1n4ryj4n/koreader-sync) — Python/FastAPI-based sync server with Docker support for ARM and AMD64.
 - [kosync](https://codeberg.org/Cmooon/kosync) — Self-hosted sync server written in Gleam. Docker and Nix-Flake included.
 - [Calibre-Web Automated](https://github.com/crocodilestick/calibre-web-automated) — Calibre-Web fork with built-in KOReader sync, OPDS server, and automated book processing.
+- [tsundoku](https://github.com/pid1/tsundoku) — Combined kosync server and OPDS 1.2/2.0 catalog running as a single Cloudflare Worker, with R2 storage and a web upload UI. No container to run.
 
 ## Desktop & External Tools
 
