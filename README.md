@@ -124,6 +124,7 @@ KOReader is a free and open-source document viewer primarily aimed at e-ink read
 
 - [timeblock.koplugin](https://kindlemodshelf.me/timeblock) — Schedule KOReader reading windows with PIN-locked parental controls.
 - [notes.koplugin](https://github.com/prasy-loyola/notes.koplugin) — Handwritten notes with stylus support.
+- [ink-away.koplugin](https://github.com/EmirErtorer/ink-away.koplugin) — Drawing, notebooks and ink on any book that stays with the text when the font changes, with layers, pressure pens and palm rejection (53+ ⭐).
 - [crossword.koplugin](https://github.com/roygbyte/crossword.koplugin) — Solve crosswords on your device.
 - [calculator.koplugin](https://github.com/code2344/calculator.koplugin) — Full-featured calculator with unit conversion.
 - [digitalclock.koplugin](https://github.com/DucNg/digitalclock.koplugin) — Display time, date, and image as a clock.
