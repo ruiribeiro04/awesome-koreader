@@ -83,6 +83,7 @@ KOReader is a free and open-source document viewer primarily aimed at e-ink read
 - [provider-webdav-highlights.koplugin](https://github.com/fairlygood/provider-webdav-highlights.koplugin) — Export KOReader highlights to a WebDAV target (21+ ⭐).
 - [telegramhighlights.koplugin](https://github.com/0xmiki/telegramhighlights.koplugin) — Send highlights to a Telegram bot with images.
 - [remotenote.koplugin](https://github.com/j-v/remotenote.koplugin) — Type notes on another device for highlighted passages.
+- [screvi.koplugin](https://github.com/screvi/screvi-koreader-plugin) — Sync KOReader highlights and notes to [Screvi](https://screvi.com), a paid highlights manager with spaced-repetition review. Connects via QR code and can auto-sync when you close a book.
 
 ## Plugins — Dictionary & Language
 
