@@ -81,8 +81,9 @@ KOReader is a free and open-source document viewer primarily aimed at e-ink read
 ## Plugins — Highlights & Annotations
 
 - [provider-webdav-highlights.koplugin](https://github.com/fairlygood/provider-webdav-highlights.koplugin) — Export KOReader highlights to a WebDAV target (21+ ⭐).
-- [telegramhighlights.koplugin](https://github.com/0xmiki/telegramhighlights.koplugin) — Send highlights to a Telegram bot with images.
 - [remotenote.koplugin](https://github.com/j-v/remotenote.koplugin) — Type notes on another device for highlighted passages.
+- [tomedown.koplugin](https://github.com/imanubdesigner/tomedown.koplugin) — Export KOReader highlights and notes into individual Markdown files per book.
+- [telegramhighlights.koplugin](https://github.com/0xmiki/telegramhighlights.koplugin) — Send highlights to a Telegram bot with images.
 
 ## Plugins — Dictionary & Language
 
