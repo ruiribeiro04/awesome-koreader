@@ -77,6 +77,7 @@ KOReader is a free and open-source document viewer primarily aimed at e-ink read
 - [supersync.koplugin](https://github.com/BrendanL79/supersync.koplugin) — Full metadata sync to cloud storage (Dropbox, WebDAV, etc.).
 - [emailtokoreader.koplugin](https://github.com/marinov752/emailtokoreader.koplugin) — Automatically download EPUB files from your email directly to your KOReader device.
 - [Highlight-Sync](https://github.com/gitalexcampos/koreader-Highlight-Sync) — Sync highlights, notes, and bookmarks across multiple devices using WebDAV or Dropbox (88+ ⭐).
+- [shelfspace.koplugin](https://github.com/ghepting/shelfspace.koplugin) – See where your device storage went and free it up.
 
 ## Plugins — Highlights & Annotations
 
