@@ -131,6 +131,7 @@ KOReader is a free and open-source document viewer primarily aimed at e-ink read
 - [weather.koplugin (holyspiritomb)](https://github.com/holyspiritomb/weather.koplugin) — Weather forecasts and conditions.
 - [weather.koplugin (roygbyte)](https://github.com/roygbyte/weather.koplugin) — Weather forecasts and conditions.
 - [webbrowser.koplugin](https://github.com/omer-faruq/webbrowser.koplugin) — Text-based web browsing on your e-reader.
+- [kobo-webbrowser.koplugin](https://github.com/medio4/kobo-webbrowser.koplugin) — Full-screen touch web browser for Kobo (uses the firmware's Qt WebKit); save articles as EPUBs.
 - [gotobed.koplugin](https://github.com/edoput/gotobed.koplugin) — Enforces bedtime by locking the device.
 - [screenlockpin.koplugin](https://github.com/oleasteo/koreader-screenlockpin) — Protect your KOReader with a PIN.
 - [smartdelete.koplugin](https://github.com/tachibana-shin/smartdelete.koplugin) — Enhanced file deletion with safety warnings.
