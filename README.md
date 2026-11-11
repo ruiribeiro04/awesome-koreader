@@ -72,6 +72,7 @@ KOReader is a free and open-source document viewer primarily aimed at e-ink read
 
 - [TelegramDownloader.koplugin](https://github.com/Evgeniy-94/TelegramDownloader.koplugin) — Send files to your e-reader via a Telegram bot.
 - [filebrowserplus.koplugin](https://github.com/patelneeraj/filebrowserplus.koplugin) — Run a Filebrowser server for wireless file management on your device.
+- [kofb.koplugin](https://github.com/Gh9518/kofb.koplugin) — KOReader shortcut to start/stop the「网页文件管理器 2」Web File Browser from inside KOReader for wireless file transfer; reuses the existing filebrowser binary, no separate install needed.
 - [AnnotationSync.koplugin](https://github.com/dani84bs/AnnotationSync.koplugin) — Lightweight plugin to keep annotations in sync between devices via cloud (23+ ⭐).
 - [syncthing.koplugin](https://github.com/arthurrump/syncthing.koplugin) — Run Syncthing directly from within KOReader for seamless file sync (29+ ⭐).
 - [supersync.koplugin](https://github.com/BrendanL79/supersync.koplugin) — Full metadata sync to cloud storage (Dropbox, WebDAV, etc.).
