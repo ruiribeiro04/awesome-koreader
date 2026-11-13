@@ -175,6 +175,7 @@ KOReader is a free and open-source document viewer primarily aimed at e-ink read
 - [KoHighlights](https://github.com/noembryo/KoHighlights) — Desktop utility for viewing, editing, syncing, and exporting KOReader highlights to TXT, HTML, CSV, or Markdown.
 - [KoInsight](https://github.com/GeorgeSG/KoInsight) — Self-hosted web dashboard for visualizing KOReader reading stats with charts and insights.
 - [KOReader Highlight Importer (Obsidian)](https://obsidian.md/plugins?id=koreader-highlights-importer) — Obsidian plugin to import KOReader highlights and annotations directly into your vault.
+- [KOWidget: Android Widget for KOReader](https://play.google.com/store/apps/details?id=com.widgetsandcreativesolutions.kowidget) — desktop widget for Android home screen. Connects to your library and locally installed KOReader for faster Recent book access.
 
 ## Calibre Integration
 
