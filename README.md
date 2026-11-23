@@ -147,6 +147,7 @@ KOReader is a free and open-source document viewer primarily aimed at e-ink read
 ## Plugins — Games & Entertainment
 
 - [connections.koplugin](https://github.com/odrling/connections.koplugin) — NYT Connections puzzle game.
+- [squarechess.koplugin](https://github.com/chriotte/squarechess.koplugin) — Play chess offline against Fairy-Stockfish or a friend, with 10,000 puzzles and a chess clock.
 - [sudoku.koplugin](https://github.com/omer-faruq/sudoku.koplugin) — Play Sudoku on your e-reader.
 - [wordsearch.koplugin](https://github.com/omer-faruq/wordsearch.koplugin) — Solve word search puzzles on your device.
 
