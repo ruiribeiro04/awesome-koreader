@@ -70,6 +70,7 @@ KOReader is a free and open-source document viewer primarily aimed at e-ink read
 
 ## Plugins — Sync & File Management
 
+- [localsend-lite.koplugin](https://github.com/bbsteel/localsend-lite.koplugin) — Send and receive files over a local network using LocalSend and KOReader’s built-in libraries.
 - [TelegramDownloader.koplugin](https://github.com/Evgeniy-94/TelegramDownloader.koplugin) — Send files to your e-reader via a Telegram bot.
 - [filebrowserplus.koplugin](https://github.com/patelneeraj/filebrowserplus.koplugin) — Run a Filebrowser server for wireless file management on your device.
 - [AnnotationSync.koplugin](https://github.com/dani84bs/AnnotationSync.koplugin) — Lightweight plugin to keep annotations in sync between devices via cloud (23+ ⭐).
